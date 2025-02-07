@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <settings>
+    <option name="USE_PROJECT_PROFILE" value="true" />
+    <option name="PROFILE_NAME" value="CustomInspectionProfile" />
+    <option name="ENABLE_SEVERITY_WARNINGS" value="true" />
+    <option name="ENABLE_SEVERITY_ERRORS" value="true" />
+    <option name="AUTO_FIX_SUGGESTIONS" value="false" />
+    <version value="1.1" />
+  </settings>
+</component>
